@@ -20,7 +20,7 @@ Intended features
 - All with optional Qualifying, optional Track limits, optional to Grid teleportation and optional car spawning
 #### Simple API (0 %)
 - With a lightweight Protocol for Local connections
-- And a secure Protocol from external connections
+- And a secure Protocol for external connections
 - To make it possible that anyone can use whatever language they want to extend the HC's feature set
 - And to add custom commands that get send to the API client
 #### Automatic Car Limitations (10 %)
