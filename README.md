@@ -8,7 +8,7 @@ Intended features
 #### Record and Replay Cars (80 %)
 - Sync with the ingame Pause (0 %)
 - Smooth Replays afterwards to minimalize recorded desync (0 %)
-#### Extended Timelines (0 %)
+#### Extended Timelines (10 %)
 - Define when Replay has to start
 - Define when a Car has todo what (Teleport, Move etc.)
 #### Gamemodes (20 %)
