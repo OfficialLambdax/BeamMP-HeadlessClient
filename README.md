@@ -2,7 +2,7 @@
 Headless Client for BeamMP
 
 This is the future Repository for the first ever Headless Client for BeamMP.
-Sneak peak of the Replay feature in a Ghost car setting: https://www.youtube.com/watch?v=Ex6WOIAyt3c
+Sneak peak of the Replay feature in a Ghost car setting: https://www.youtube.com/watch?v=ca0F-NQM1IA
 
 Intended features
 #### Record and Replay Cars (80 %)
